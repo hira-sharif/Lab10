@@ -7,7 +7,7 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class TestSelectionSort {
+public class testSelectionSort {
 	@Test
 	public void test() {
 		testPositive();
